@@ -13,16 +13,13 @@ body{
     font-size: 45px;
     color: white;
     text-align: center;
-    margin-top: -4px;
-    margin-bottom: 5px;
+    margin: auto;
 }
 
 .upper p{
     font-size: 20px;
     color: white;
     text-align: center;
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 .center{
@@ -66,7 +63,6 @@ body{
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: 5px;
     transition: 0.3s ease; 
 }
 
