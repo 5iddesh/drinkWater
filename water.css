@@ -6,7 +6,7 @@
 body{
     background-color: #3494E4;
     font-family: 'montserrat', sans-serif; 
-    padding-top: 50px;  
+    padding-top: 50px; 
 }
 
 .upper h1{
@@ -74,8 +74,7 @@ body{
     display:flex;
     flex-wrap: wrap;
     width: 280px;
-    align-items: center;
-    margin-left: 625px;
+    margin: auto;
 }
 
 .cups .fill{

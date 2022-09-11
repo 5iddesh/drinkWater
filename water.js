@@ -29,7 +29,6 @@ function highlightcups(index) {
 
 
 function bigCup(index) {
-  console.log(index);
   const fullCups = index+1;
   const totalCups = 8;
   
@@ -42,8 +41,7 @@ function bigCup(index) {
       percent.style.height = `${height}px`
       percent.style.display = 'block';
       liter.innerHTML = `${2-(fullCups*0.25)} L `;
-      abovePercent.style.height = `${322-height}px`
-      console.log(height + '  '+ `${322-height}`);
+      abovePercent.style.height = `${322-height}px`;
       if(fullCups>6){
         percent.style.fontSize = '20px';
         liter.style.fontSize = '20px';
