@@ -51,7 +51,7 @@ function bigCup(index) {
       }else{
         percent.style.fontSize = '15px';
         liter.style.fontSize = '30px';
-
+        abovePercent.style.padding = '20% 0';
       }
   }
 }

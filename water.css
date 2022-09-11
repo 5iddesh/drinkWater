@@ -5,7 +5,8 @@
 }
 body{
     background-color: #3494E4;
-    font-family: 'montserrat', sans-serif;   
+    font-family: 'montserrat', sans-serif; 
+    padding-top: 50px;  
 }
 
 .upper h1{
